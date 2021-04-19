@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/supriyayadav221/breaking_bad_cast_api/static/css/main.f42d69d3.chunk.css",
+    "main.js": "/supriyayadav221/breaking_bad_cast_api/static/js/main.58476fa2.chunk.js",
+    "main.js.map": "/supriyayadav221/breaking_bad_cast_api/static/js/main.58476fa2.chunk.js.map",
+    "runtime-main.js": "/supriyayadav221/breaking_bad_cast_api/static/js/runtime-main.4af4e3ae.js",
+    "runtime-main.js.map": "/supriyayadav221/breaking_bad_cast_api/static/js/runtime-main.4af4e3ae.js.map",
+    "static/js/2.006479a1.chunk.js": "/supriyayadav221/breaking_bad_cast_api/static/js/2.006479a1.chunk.js",
+    "static/js/2.006479a1.chunk.js.map": "/supriyayadav221/breaking_bad_cast_api/static/js/2.006479a1.chunk.js.map",
+    "static/js/3.bf62016a.chunk.js": "/supriyayadav221/breaking_bad_cast_api/static/js/3.bf62016a.chunk.js",
+    "static/js/3.bf62016a.chunk.js.map": "/supriyayadav221/breaking_bad_cast_api/static/js/3.bf62016a.chunk.js.map",
+    "index.html": "/supriyayadav221/breaking_bad_cast_api/index.html",
+    "static/css/main.f42d69d3.chunk.css.map": "/supriyayadav221/breaking_bad_cast_api/static/css/main.f42d69d3.chunk.css.map",
+    "static/js/2.006479a1.chunk.js.LICENSE.txt": "/supriyayadav221/breaking_bad_cast_api/static/js/2.006479a1.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/supriyayadav221/breaking_bad_cast_api/static/media/bg.085908ea.jpg",
+    "static/media/logo.e6ecab44.png": "/supriyayadav221/breaking_bad_cast_api/static/media/logo.e6ecab44.png",
+    "static/media/spinner.11d9cde8.gif": "/supriyayadav221/breaking_bad_cast_api/static/media/spinner.11d9cde8.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4af4e3ae.js",
+    "static/js/2.006479a1.chunk.js",
+    "static/css/main.f42d69d3.chunk.css",
+    "static/js/main.58476fa2.chunk.js"
+  ]
+}
